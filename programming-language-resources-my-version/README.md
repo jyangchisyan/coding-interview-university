@@ -11,51 +11,43 @@
 >
 > *祝你好運!*
 
-<details>
-<summary>翻譯:</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [繁體中文](translations/README-tw.md)
-
-</details>
-
-<details>
-<summary>正在翻譯的項目:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Russian](https://github.com/jwasham/coding-interview-university/issues/87)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Polish](https://github.com/jwasham/coding-interview-university/issues/122)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
-
-</details>
-
 ## What is it?
+## Why use it?
+## How to use it
 
-這是我為了從一個網頁開發者(自學，並且沒有任何與資工、電腦科學有關的學位)，成為一個大公司軟體工程師，持續好幾個月的讀書計畫。
+親自動手建立一份學習清單,重新理解、改進。
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
+我用了Github-flavored markdown語法，其中包含了可以確定完成進度的任務清單。
 
-這是為了那些**新手軟體工程師**，或者是那些想要轉換跑道，從軟體/網頁開發者轉為軟體工程師(需要資工、電腦科學的知識)的人。
+[更多有關Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-請注意就算你有多年的軟體/網頁開發經驗，那些著名的大型軟體公司，像是Google、Amazon、Facebook，或是Microsoft事實上把軟體/網頁開發(Software/Web Development)與軟體工程(Software Engineering)視為不同，而後者需要的是電腦科學/資訊工程的知識。
+## 影片課程資源 （Course Video Resource）
 
-如果你想成為一個可靠的工程師或者是Operation Engineer，閱讀並且學習更多這份清單中的The Optional List(裡面包含網路與資訊安全的知識)。
+個人主要會圍繞影片課程部份以增進並做延伸調整,以下是個人影片課程
+
+- [Beginning C++ Programming - From Beginner to Beyond ](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+- [Career Hacking™: Resume, LinkedIn, Interviewing +More ](https://www.udemy.com/course/golden-gate-bridge/)
+- [Mastering Data Structures & Algorithms using C and C++ ](https://www.udemy.com/course/datastructurescncpp/)
+- [ Beginning Test Driven Development in C++ ](https://www.udemy.com/course/beginning-test-driven-development-in-c/)
+
+## 書單(Book List)
+
+以下是我正在使用的書單，
+
+- [提升程式設計師的面試力︰189道面試題目與解答（第六版)](https://www.taaze.tw/goods/14100038060.html)
+- [演算法圖鑑：26種演算法 + 7種資料結構，人工智慧、數據分析、邏輯思考的原理和應用全圖解](https://www.taaze.tw/sing.html?pid=14100027723)
+
+
+## 應用程式(Applications)
+
+
+## 在開始之前
+### 1. 你沒辦法記住所有事情
+### 3. 學習資料結構與演算法的同時，也要做一些Coding面試中常出現的問題
+### 4. 複習，複習，再複習
+### 5. 專注
+## 每日計畫
+## 先備知識
 
 ---
 
@@ -176,273 +168,6 @@
 - [論文](#論文)
 
 ---
-
-## Why use it?
-
-當我開始這項計畫的時候，我不知道Stack與Heap的差別，不知道時間複雜度(Big-O)，不知道樹狀結構(Tree)，也不知道如何遍歷一個圖(Graph)。過去如果我需要寫一個排序演算法(Sorting Algorithm)，那個code一定是個災難。我過去都用程式語言中內建的資料結構(Data Structure)，對於資料結構裡面的實作方法跟原理我完全沒有任何的概念。除非我的程式碰到了"out of memory"的錯誤我才會去找解決方法，否則我從不特別去花費心思管理程式中的記憶體配置。雖然我有用過多維陣列(Multidimensional Arrays)跟關聯陣列(Associative Arrays)，但我從來沒有自己時做過資料結構。
-
-這是個遠大的計畫，或許要花上你數個月的時間。如果你對其中大部分的東西已經很熟悉的話，那麼執行這項計畫所花費的時間將減少許多。
-
-## How to use it
-
-下面每項是大綱，你需要從上到下的去理解這些大綱。
-
-我用了Github-flavored markdown語法，其中包含了可以確定完成進度的任務清單。
-
-
-**建立一個新的Branch以使用Github-flavored markdown的勾選功能。只要在[]中打x，像是: [x]**
-
-
-    Fork一個branch，並且跟隨以下的指令
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    在你完成了一些目標後，在框框中打x
-
-`git add .`
-
-`git commit -m "Marked x"`
-
-`git rebase jwasham/master`
-
-`git push --force`
-
-[更多有關Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Don't feel you aren't smart enough(不要覺得自己不夠聰明)
-
-- 大多數成功的軟體工程師都非常聰明，但他們都有一種覺得自己不夠聰明的不安全感。
-- [The myth of the Genius Programmer(天才Programmer的迷思)](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech(不要單打獨鬥:面對科技中的隱形怪物)](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## About Video Resources(關於影片資源)
-
-有些影片要註冊Coursera或者Edx的課程後才能觀看，也就是所謂的MOOCs。有時候某些課程需要等待好幾個月才能註冊，這期間你無法觀看這些課程的影片。
-
-    我非常喜歡那些大學的線上課程。感謝你們幫忙加入一些免費、可隨時觀看的公開資源，像是那些線上課程的YouTube影片。
-
-## Interview Process & General Interview Prep(面試過程&面試準備)
-
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
-- [ ] 如何錄取Big Tech(Google, Amazon, Facebook, Apple):
-    - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-- [ ] Coding面試解密:
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-- [ ] Facebook Coding面試解密:
-    - [ ] [The Approach](https://www.youtube.com/watch?v=wCl9kvQGHPI)
-    - [ ] [Problem Walkthrough](https://www.youtube.com/watch?v=4UWDyJq8jZg)
-- [ ] 準備課程:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - 從前Google面試官身上學習如何充實自己，讓自己能夠應付軟體工程師的面試。
-    - [ ] [Python for Data Structures, Algorithms, and Interviews (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
-        - Python面試準備課程，其中包含了資料結構、演算法、模擬面試等等。
-    - [ ] [Intro to Data Structures and Algorithms using Python (Udacity free course)](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513):
-        - Python免費資料結構及演算法課程。
-    - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
-        - 超過100種實際的資料結構及演算法練習。名師指導讓你準備好面試以及工作的實際情況。
-
-## 面試時專精一種程式語言(Pick One Language for the Interview)
-
-在面試的coding階段，你可以選擇任何一個你擅長的程式語言。但多數大公司僅有以下選擇:
-
-- C++
-- Java
-- Python
-
-你也可以選擇以下的程式語言，但可能會有某些限制:
-
-- JavaScript
-- Ruby
-
-我之前寫過一篇關於在面試時選擇程式語言的文章:[Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/)
-
-你需要非常熟練這個程式語言，並且對他非常了解。
-
-閱讀更多有關程式語言的選擇:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-
-[程式語言相關資源](programming-language-resources.md)
-
-因為我正在學習C、C++以及Python，所以下面會出現一些有關於這些程式語言的資源。
-
-## 書單(Book List)
-
-為了節省你的時間，以下是已經縮減過的書單。
-
-### 面試準備(Interview Prep)
-
-- [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
-    - 附有解答 in C++ and Java
-    - 內含很棒的coding面試解密
-    - 不會很困難，大多問題都比面試中的還簡單(從我讀過的)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - 附有解答 in Java
-
-### 如果你有額外的時間(If you have tons of extra time):
-
-選擇以下其中一個:
-
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- [ ] 程式面試精華 (Java版)
-    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
-    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
-
-### 程式語言精進
-
-***面試時你需要選擇一種程式語言(詳如上述)***
-
-以下是一些我對程式語言的建議。這邊沒有所有種類程式語言的資源，所以歡迎補充。
-
-如果你讀過以下其中一本，你應該已經具備了所有解決coding問題所需要的資料結構與演算法的知識。除非你想要複習，否則**你可以跳過這個計畫中所有的教學影片**。
-
-[額外程式語言精進資源](programming-language-resources.md)
-
-### C++
-
-我沒讀過這兩本書，但他們頗受好評。作者是Sedgewick，他超讚的!
-
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-
-如果你有更好的C++書籍，請告訴我。我正在蒐集全面性的資源。
-
-## Java
-
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
-    - 在Coursera平台上有影片、書籍內容、(以及Sedgewick!)
-        - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
-        - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
-
-或者:
-
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
-    - 作者:Goodrich、Tamassia、Goldwasser
-    - 被作為UC Berkeley資工系入門課程的補充教材
-    - 看看下面我對這本書的Python版的書評。兩本書都包含了相同的主題。
-
-### Python
-
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-    - 作者:Goodrich、Tamassia、Goldwasser
-    - 我超愛這本書。他包含了所有東西。
-    - 很Python的Code!
-    - 我的書評: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
-
-
-## 在你開始之前
-
-這份清單隨著時間越來越大。當然，這也同時代表我越來越難以掌握他的整體內容。
-
-以下是一些清單內的錯誤，希望能讓你避免這些錯誤，並且有更好的學習體驗。
-
-### 1. 你沒辦法記住所有事情
-
-我看了數小時的影片，同時也寫下了大量的筆記。但過了幾個月後，大部分的東西都消失的無影無蹤。我花了三天重新看過我的筆記，並做了小字卡幫助我複習他們。
-
-請閱讀以下的文章以免重蹈覆轍:
-
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
-
-有人推薦給我的課程(但我還沒看過:( ): [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-
-### 2. 使用小字卡
-
-為了解決剛剛提到的遺忘問題，我自己寫了一個小字卡網站。網站上可以新增兩種小字卡，一般的以及程式碼。
-每一種類的小字卡都有不同的格式。
-
-這個小字卡網站在製作時便是以行動裝置優先的方式設計的，好處是無論我在何處，我都可以在我的手機與平板上複習。
-
-製作屬於自己的免費小字卡:
-
-- [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
-- [My flash cards database (old - 1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db):
-- [My flash cards database (new - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham-extreme.db):
-
-我的小字卡資料庫中包含了組合語言、Python的小知識、機器學習以及統計。這些內容已經超出了原本他的預設。
-
-**關於小字卡**:當你第一次知道答案後，別馬上把那張小字卡標記為已知。反覆複習這張小字卡，直到每次都能答對後才是真正學會了這個問題。反覆的動作會讓這個知識深深地烙印在你的腦海內。
-
-這裡有個替代我小字卡的網站[Anki](http://ankisrs.net/)，很多人向我推薦過他。這個網站用同一個字卡重複出現的方式讓你牢牢地記住他。
-這個網站非常容易使用，支援多平台，並且有雲端同步功能。在iOS平台上收費25美金，其他平台免費。
-
-這是我用Anki這個網站裡的格式所儲存的小字卡資料庫: https://ankiweb.net/shared/info/25173560 (感謝 [@xiewenya](https://github.com/xiewenya))
-
-### 3. 學習資料結構與演算法的同時，也要做一些Coding面試中常出現的問題
-
-把你學過的東西應用在解題上面，否則你很快就會忘了他們。這是一個過來人的經驗談。一旦你自認學會了一個主題，像是Linked List之類的，打開任何一本Coding面試問題書籍，做一些裡面有關Linked List的問題。接著繼續讀後面的主題。然後，再回頭反覆做有關Linked List、遞迴或者其他任何東西(原文為Recursion，非Recursive)的題目。但切記一定在讀這些資料結構、演算法的同時，也要實際去寫一些有關這些東西的題目。公司錄取你是為了能有即戰力能夠上戰場，而非一個紙上談兵的人。這邊我覺得還不錯的書籍和網站。更多: [Coding Question Practice](#coding-question-practice)
-
-### 4. 複習，複習，再複習
-
-我自己寫了一些有關於ASCII Code、網路OSI模型、Big-O(時間複雜度)等等的小抄。我有空的時候就會把他們拿出來看一看複習一下。
-
-打Code累了的話就休息半個小時，並且複習你的小字卡。
-
-### 5. 專注
-
-能夠干擾你，浪費你寶貴時間的東西很多。因此，專注集中精神實在很難。放點純音樂能幫上一些忙。
-
-## 這份清單沒有包含的內容
-
-以下為普遍但沒有包含在這份清單內的技術:
-
-- SQL
-- Javascript
-- HTML、CSS，以及其他前後端的技術
-
-## 每日計畫
-
-每個主題所花費的時間都不盡相同，有些只要一天，有些需要花上數天。有些主題只有單純的知識而無包含實作。
-
-每天我選擇下面其中一個主題，看跟該主題相關的影片，再用下面的程式語言實作:
-- C - 用使用了struct *或者其他東西當作參數的struct以及函數
-- C++ - 不要使用內建的東西
-- C++ - 用C++內建的東西，像是STL的Linked List，std::list。
-- Python - 使用內建的東西(為了練習Python)
-- 寫一些測試來驗證自己寫的東西是正確的，像是用assert()等簡單的方法。
-- 你也可以用Java來練習，上面只是我自己的方法。
-
-你不需要學會所有的程式語言，你只需要專精在某個程式語言 [one language for the interview](#pick-one-language-for-the-interview).
-
-為什麼要這樣寫Code?
-- 練習，練習，再練習，直到我對他產生厭惡感，並且能輕鬆無誤地寫出那些Code。(有些東西需要特別記住，像是在邊界的時候會出現問題(edge cases)，或者一些小細節)
-- 全部自己來(像是手動分配/釋放記憶體，不要依賴語言中的garbage collection的功能(除了Python或者Java))
-- 利用語言中內建的東西及工具，之後在實際工作的時候才能得心應手(畢竟我不想在工作時手刻一個Linked List)。
-
-我沒有時間做每個主題中的每個東西，但我會盡力而為。
-
-下面是我自己寫的程式碼:
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
- - [Python](https://github.com/jwasham/practice-python)
-
- 你不需要記住每個演算法裡面的內容。
-
- 試試看把程式碼寫在白板或者紙上而不是電腦上。接著用一些測資來測試他。最後才用電腦來驗證。
-
- ## 先備知識
-
-- [ ] **學習C**
-    - C語言無所不在。在你學習的過程中，幾乎任何一本書、課程，或者影片中你都能看到他的身影。
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - 這本書還滿輕薄的，但他能讓你有初步對於C語言的認識。看著這本書並且練習，你能更快地掌握C語言。理解C語言能讓你更了解程式的運作以及內部記憶體配置。
-        - [answers to questions](https://github.com/lekkas/c-algorithms)
-- [ ] **一個程式在電腦中是如何運作的:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
-
 ## 演算法複雜度(Algorithmic complexity) / Big-O / 漸進分析(Asymptotic analysis)
 
 - 沒有任何東西能實作
